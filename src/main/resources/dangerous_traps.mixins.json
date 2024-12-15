@@ -1,0 +1,14 @@
+{
+    "required": true,
+    "minVersion": "0.8",
+    "package": "org.cake_gr.dangerous_traps.mixin",
+    "compatibilityLevel": "JAVA_21",
+    "refmap": "dangerous_traps.refmap.json",
+    "mixins": [
+    ],
+    "client": [
+    ],
+    "injectors": {
+        "defaultRequire": 1
+    }
+}
